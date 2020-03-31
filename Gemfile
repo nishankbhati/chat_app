@@ -23,6 +23,8 @@ gem 'jquery-rails'
 
 # For storing passwords
 gem 'bcrypt'
+# For formatting data in rails console
+gem 'hirb'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
